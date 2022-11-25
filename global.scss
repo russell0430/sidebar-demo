@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+a{
+  list-style: none;
+  text-decoration: none;
+}
+$body-color: #e4e9f7;
+$sidebar-color: #fff;
+$primary-color: #685cfe;
+$primary-color-light: #f6f5ff;
+$toggle-color: #ddd;
+$text-color: #707070;
+$tran-02: all 0.2s ease;
+$tran-03: all 0.3s ease;
+
+@import url('//at.alicdn.com/t/c/font_3622397_ljdiicdgvp.css');
